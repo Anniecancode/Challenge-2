@@ -41,3 +41,13 @@ Similar to the above section, when screen size reduces, all elements wrap to fit
 
 This section is where the user can be in touch me. It includes my phone number, email address and Github - which is hyperlinked to my Github account.
 This section also wraps when the screen size reduces.
+
+
+## URL of my page
+
+https://anniecancode.github.io/Challenge-2/
+
+
+## Screenshot of my page
+
+![image](https://user-images.githubusercontent.com/99180884/174102976-bedbefef-e6bb-4f0d-833a-0b436b40a52d.png)
