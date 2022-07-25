@@ -50,4 +50,4 @@ https://anniecancode.github.io/Challenge-2/
 
 ## Screenshot of my page
 
-![image](https://user-images.githubusercontent.com/99180884/174102976-bedbefef-e6bb-4f0d-833a-0b436b40a52d.png)
+![image](https://user-images.githubusercontent.com/99180884/180778316-68cc2385-ff79-4fde-a860-866b5a2582dd.png)
